@@ -1,0 +1,3 @@
+To do
+ - t.test for each dist and width
+ - factor analysis
